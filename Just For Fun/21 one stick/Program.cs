@@ -6,15 +6,15 @@ while (answer != "да")
     Console.WriteLine("Я не получил корректный ответ. Если будешь готов, напиши да");
     answer = Console.ReadLine();
 }
+int sticks = 21;
 Console.WriteLine("Отлично, тогда приступим. Представь, что перед тобой 21 палочка. Мы будем с ними играть. Ты видишь их ниже.");
 Console.WriteLine();
-Console.WriteLine(" |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ");
-Console.WriteLine(" |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ");
+tring ShowSticksLeft(sticks);
 Console.WriteLine();
 Console.WriteLine("ПРАВИЛА: Мы будем брать палочки поочереди: ты, я, ты, я и т.д. Можнно брать 1, 2 или 3 палочки за раз. Кто заберет последнюю - програл.");
 Console.WriteLine("Для начала давай решим, кто будет брать первым: ты или я. Если, хочешь начать, введи /я/, если хочешь быть вторым - введи /ты/");
 
-string HowNuchStickLeft(int sticks)
+string ShowSticksLeft(int sticks)
 {
     string lineOfSticks = "";
     int counter = 1;
@@ -28,7 +28,6 @@ string HowNuchStickLeft(int sticks)
 
 
 string answer2 = Console.ReadLine();
-int sticks = 21;
 int turn = 1;
 int hand = 0;
 int counter = 1;
@@ -71,7 +70,7 @@ while (sticks != 1)
         else 
         {
             Console.WriteLine("Сколько ты возьмешь от 1 до 3?");
-            Console.WriteLine(HowNuchStickLeft(sticks));
+            Console.WriteLine(ShowSticksLeft(sticks));
             hand = Convert.ToInt32(Console.ReadLine());
             while (hand > 3 || hand < 0)
             {
@@ -79,7 +78,7 @@ while (sticks != 1)
                 hand = Convert.ToInt32(Console.ReadLine());
             }
             Console.WriteLine($"Осталось {sticks-hand} ");
-            Console.WriteLine(HowNuchStickLeft(sticks-hand));
+            Console.WriteLine(ShowSticksLeft(sticks-hand));
         }
         turn = 2;
     }

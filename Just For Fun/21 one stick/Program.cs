@@ -6,13 +6,6 @@ while (answer != "да")
     Console.WriteLine("Я не получил корректный ответ. Если будешь готов, напиши да");
     answer = Console.ReadLine();
 }
-int sticks = 21;
-Console.WriteLine("Отлично, тогда приступим. Представь, что перед тобой 21 палочка. Мы будем с ними играть. Ты видишь их ниже.");
-Console.WriteLine();
-tring ShowSticksLeft(sticks);
-Console.WriteLine();
-Console.WriteLine("ПРАВИЛА: Мы будем брать палочки поочереди: ты, я, ты, я и т.д. Можнно брать 1, 2 или 3 палочки за раз. Кто заберет последнюю - програл.");
-Console.WriteLine("Для начала давай решим, кто будет брать первым: ты или я. Если, хочешь начать, введи /я/, если хочешь быть вторым - введи /ты/");
 
 string ShowSticksLeft(int sticks)
 {
@@ -26,6 +19,13 @@ string ShowSticksLeft(int sticks)
     return lineOfSticks;
 }
 
+int sticks = 21;
+Console.WriteLine("Отлично, тогда приступим. Представь, что перед тобой 21 палочка. Мы будем с ними играть. Ты видишь их ниже.");
+Console.WriteLine();
+ShowSticksLeft(sticks);
+Console.WriteLine();
+Console.WriteLine("ПРАВИЛА: Мы будем брать палочки поочереди: ты, я, ты, я и т.д. Можнно брать 1, 2 или 3 палочки за раз. Кто заберет последнюю - програл.");
+Console.WriteLine("Для начала давай решим, кто будет брать первым: ты или я. Если, хочешь начать, введи /я/, если хочешь быть вторым - введи /ты/");
 
 string answer2 = Console.ReadLine();
 int turn = 1;

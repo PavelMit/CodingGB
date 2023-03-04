@@ -40,8 +40,6 @@ void CrossPointOfTwoLines(double k1, double b1, double k2, double b2)
         if (k1 + b1 == k2 + b2) Console.WriteLine($"Lines with coordinates: k1 = {k1}, b1 = {b1}, k2 = {k2}, b2 = {b2} are equal");
         else 
         {
-            //2x - 5 = x + 3
-            //x = 8
             double x = (b2 - b1) / (k1 - k2);
             double y = (k1 * x) + b1;
             Console.WriteLine($"Lines with coordinates: k1 = {k1}, b1 = {b1} and k2 = {k2}, b2 = {b2} are crossing in coordinates x = {x}, y = {y}");

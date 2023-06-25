@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/bin/Debug/net7.0/Example3_Find
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/bin/Debug/net7.0/Example3_Find.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/bin/Debug/net7.0/Example3_Find.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/bin/Debug/net7.0/Example3_Find.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/bin/Debug/net7.0/Example3_Find.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/refint/Example3_Find.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/Example3_Find.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example3_Find/obj/Debug/net7.0/ref/Example3_Find.dll

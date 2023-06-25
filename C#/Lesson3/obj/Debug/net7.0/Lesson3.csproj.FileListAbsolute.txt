@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/bin/Debug/net7.0/Lesson3
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/bin/Debug/net7.0/Lesson3.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/bin/Debug/net7.0/Lesson3.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/bin/Debug/net7.0/Lesson3.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/bin/Debug/net7.0/Lesson3.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/refint/Lesson3.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/Lesson3.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson3/obj/Debug/net7.0/ref/Lesson3.dll

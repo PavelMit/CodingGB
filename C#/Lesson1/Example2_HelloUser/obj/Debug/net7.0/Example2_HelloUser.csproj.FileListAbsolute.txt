@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/bin/Debug/net7.0/Example2_HelloUser
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/bin/Debug/net7.0/Example2_HelloUser.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/bin/Debug/net7.0/Example2_HelloUser.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/bin/Debug/net7.0/Example2_HelloUser.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/bin/Debug/net7.0/Example2_HelloUser.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/refint/Example2_HelloUser.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/Example2_HelloUser.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/Example2_HelloUser/obj/Debug/net7.0/ref/Example2_HelloUser.dll

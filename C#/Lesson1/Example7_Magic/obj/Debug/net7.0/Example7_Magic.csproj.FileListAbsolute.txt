@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/bin/Debug/net7.0/Example7_Magic
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/bin/Debug/net7.0/Example7_Magic.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/bin/Debug/net7.0/Example7_Magic.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/bin/Debug/net7.0/Example7_Magic.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/bin/Debug/net7.0/Example7_Magic.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/refint/Example7_Magic.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/Example7_Magic.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example7_Magic/obj/Debug/net7.0/ref/Example7_Magic.dll

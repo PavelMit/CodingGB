@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/bin/Debug/net7.0/Example2_Array
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/bin/Debug/net7.0/Example2_Array.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/bin/Debug/net7.0/Example2_Array.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/bin/Debug/net7.0/Example2_Array.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/bin/Debug/net7.0/Example2_Array.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/refint/Example2_Array.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/Example2_Array.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson2/Example2_Array/obj/Debug/net7.0/ref/Example2_Array.dll

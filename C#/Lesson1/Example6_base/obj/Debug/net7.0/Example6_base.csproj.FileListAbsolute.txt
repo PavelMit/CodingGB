@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/bin/Debug/net7.0/Example6_base
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/bin/Debug/net7.0/Example6_base.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/bin/Debug/net7.0/Example6_base.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/bin/Debug/net7.0/Example6_base.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/bin/Debug/net7.0/Example6_base.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/refint/Example6_base.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/Example6_base.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example6_base/obj/Debug/net7.0/ref/Example6_base.dll

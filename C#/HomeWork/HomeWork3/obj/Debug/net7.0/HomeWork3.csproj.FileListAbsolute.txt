@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/bin/Debug/net7.0/HomeWork3
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/bin/Debug/net7.0/HomeWork3.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/bin/Debug/net7.0/HomeWork3.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/bin/Debug/net7.0/HomeWork3.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/bin/Debug/net7.0/HomeWork3.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/refint/HomeWork3.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/HomeWork3.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork3/obj/Debug/net7.0/ref/HomeWork3.dll

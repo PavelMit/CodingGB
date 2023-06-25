@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/bin/Debug/net7.0/HomeWork4
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/bin/Debug/net7.0/HomeWork4.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/bin/Debug/net7.0/HomeWork4.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/bin/Debug/net7.0/HomeWork4.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/bin/Debug/net7.0/HomeWork4.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/refint/HomeWork4.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/HomeWork4.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/HomeWork/HomeWork4/obj/Debug/net7.0/ref/HomeWork4.dll

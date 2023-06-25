@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/bin/Debug/net7.0/Example3_Sum
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/bin/Debug/net7.0/Example3_Sum.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/bin/Debug/net7.0/Example3_Sum.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/bin/Debug/net7.0/Example3_Sum.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/bin/Debug/net7.0/Example3_Sum.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/refint/Example3_Sum.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/Example3_Sum.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example3_Sum/obj/Debug/net7.0/ref/Example3_Sum.dll

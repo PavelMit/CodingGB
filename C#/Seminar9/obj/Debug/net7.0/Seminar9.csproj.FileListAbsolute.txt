@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/bin/Debug/net7.0/Seminar9
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/bin/Debug/net7.0/Seminar9.deps.json
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/bin/Debug/net7.0/Seminar9.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/bin/Debug/net7.0/Seminar9.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/bin/Debug/net7.0/Seminar9.pdb
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/refint/Seminar9.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.pdb
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/Seminar9.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/Seminar9/obj/Debug/net7.0/ref/Seminar9.dll

@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/bin/Debug/net7.0/First task
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/bin/Debug/net7.0/First task.deps.json
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/bin/Debug/net7.0/First task.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/bin/Debug/net7.0/First task.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/bin/Debug/net7.0/First task.pdb
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/refint/First task.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.pdb
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/First task.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/C#/CodeWars/First task/obj/Debug/net7.0/ref/First task.dll

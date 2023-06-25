@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/bin/Debug/net7.0/Example5_IfElse
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/bin/Debug/net7.0/Example5_IfElse.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/bin/Debug/net7.0/Example5_IfElse.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/bin/Debug/net7.0/Example5_IfElse.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/bin/Debug/net7.0/Example5_IfElse.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/refint/Example5_IfElse.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/Example5_IfElse.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example5_IfElse/obj/Debug/net7.0/ref/Example5_IfElse.dll

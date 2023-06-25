@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/bin/Debug/net7.0/Example34_diff
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/bin/Debug/net7.0/Example34_diff.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/bin/Debug/net7.0/Example34_diff.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/bin/Debug/net7.0/Example34_diff.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/bin/Debug/net7.0/Example34_diff.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/refint/Example34_diff.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/Example34_diff.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Lesson1/Example34_diff/obj/Debug/net7.0/ref/Example34_diff.dll

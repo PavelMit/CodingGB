@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/bin/Debug/net7.0/Seminar5
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/bin/Debug/net7.0/Seminar5.deps.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/bin/Debug/net7.0/Seminar5.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/bin/Debug/net7.0/Seminar5.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/bin/Debug/net7.0/Seminar5.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/refint/Seminar5.dll
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.pdb
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/Seminar5.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/CodingGB/CodingGB/C#/Seminar5/obj/Debug/net7.0/ref/Seminar5.dll

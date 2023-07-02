@@ -31,7 +31,7 @@ import java.util.Scanner;
 public class HomeWork5 {
 
 
-    public static Map updateBook(Map<String, ArrayList> map, String key, String value) {
+    public static Map<String, ArrayList> updateBook(Map<String, ArrayList> map, String key, String value) {
         if (map.containsKey(key)) {
             map.get(key).add(value);
             map.get(key).sort(Comparator.naturalOrder());
